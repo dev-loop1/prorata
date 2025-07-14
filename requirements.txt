@@ -6,3 +6,4 @@ openpyxl
 prophet
 pycountry
 holidays
+plotly
