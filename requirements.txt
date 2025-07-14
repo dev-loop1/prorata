@@ -1,0 +1,8 @@
+streamlit
+pandas
+polars
+numpy
+openpyxl
+prophet
+pycountry
+holidays
