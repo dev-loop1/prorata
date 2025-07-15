@@ -2,7 +2,7 @@
 
 A powerful, dual-page **Streamlit** web app that enables both **calendar-based** and **holiday-aware** proration of weekly data—ensuring accurate and context-sensitive reporting for any dataset.
 
-* **For lighter use, the app is hosted on Streamlit Server.** Access Link: 
+* **For lighter use, the app is hosted on Streamlit Server.** Access Link: https://prorata.streamlit.app
 
 ---
 
